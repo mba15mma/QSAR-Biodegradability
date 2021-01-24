@@ -1,1 +1,1 @@
-# QSAR-Biodegradability
+# QSAR Data-Biodegradability Predictive Model
